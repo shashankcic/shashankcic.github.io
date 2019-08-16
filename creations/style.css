@@ -138,7 +138,7 @@ footer{
     background: -o-linear-gradient(top, #F3AAAA 0%,#febf04 100%); /* Opera 11.10+ */
     background: -ms-linear-gradient(top, #F3AAAA 0%,#febf04 100%); /* IE10+ */
     background: linear-gradient(top, #F3AAAA 0%,#febf04 100%); /* W3C */
-    font-size: 0.7rem;
+    font-size: 0.4rem;
 }
 
 /***********************************************************************
