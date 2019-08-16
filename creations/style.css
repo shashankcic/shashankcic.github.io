@@ -154,5 +154,6 @@ footer{
 }
 
 .foot{
-    font-size: 0.9rem;
+    padding: 3px;
+    font-size: 2rem;
 }
