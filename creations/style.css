@@ -60,9 +60,6 @@ a{
     text-decoration: none;
 }
 
-.push{
-    margin-left: auto;
-}
 
 /*Cover*/
 .container{
@@ -160,6 +157,20 @@ footer{
 }
 
 .nav-btn {
-    -webkit-box-shadow: 0px 2px 2px 2px rgba(0,0,0,0.2);
-    box-shadow: 0px 2px 2px 2px rgba(0,0,0,0.2);
+    background-color: #7af;
+    -webkit-box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.2);
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    border-radius: 6px;
+    border: 2px solid rgba(0,0,0,0.2);
+    transition: all 0.3s ease-in-out;
+    margin: 6px 3px;
+    padding: 20px 20px;
+}
+
+.nav-btn:hover {
+    transform: scale(1.05);
+}
+
+.push{
+    margin-left: auto;
 }
