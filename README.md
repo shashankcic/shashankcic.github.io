@@ -1,5 +1,5 @@
 # Shashank Singh
-A simple website for me.
+A simple website for me to learn more about Github Pages.
 
 I am just learning web development and this is just a simple step in it.
 
