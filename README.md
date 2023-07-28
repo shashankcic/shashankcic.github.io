@@ -10,4 +10,4 @@ Also check out https://devshashank.com while you are at it. \
 Also, you can check my medium blog at https://singhshashank.medium.com. \
 There are articles about my projects there too.
 
-Update soon!
+Update soon (hopefully)!
